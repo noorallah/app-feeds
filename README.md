@@ -24,11 +24,16 @@ GitHub only sees the phone's IP address when the file is downloaded.
 ```
 
 - `date`: `YYYY-MM-DD`, one item per day per `for`. Post up to a month ahead.
-- `for`: `all`, or a profile (Maa Family: `homemaker`, `student`, `farmer`, `worker`, `business`, `retired`).
+- `for`: `general` (everyone), or a Maa Family profile: `homemaker`, `student`, `farmer`, `business`, `driver`, `teacher`, `officeIt`, `dailyWorker`, `retired`. Deen Saathi uses `general` only.
 - `te`, `en`: plain text only, no links or HTML, at most 200 characters each. Both are required; an item missing either is skipped.
 - `source`: `own`, or the author / reference (Deen Saathi: the Quran or hadith reference; every line scholar-reviewed before it is added).
-- A day with no item: the app uses its built-in lines.
-- Keep the file small: remove items older than 30 days.
+- Keep the last 5 weeks in the file (so a new phone also gets last month), plus up to a month ahead. Remove older items.
+
+## How the apps use it
+
+- With the switch on, the app checks the file once a day (downloads only when it changed) and keeps the lines on the phone: always the coming week, and the whole file when it is under 100 KB (normally a month or more).
+- For each day, the app shows: today's line from the feed; if there is none, the line from the same date last month (from what it kept); if there is none, its built-in lines.
+- The app keeps the last 2 months on the phone for that fallback. Switch off deletes everything it downloaded.
 
 ## Rules
 

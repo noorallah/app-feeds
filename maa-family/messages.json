@@ -1,4 +1,356 @@
 {
   "version": 1,
-  "items": []
+  "updated": "2026-11-18",
+  "items": [
+    {
+      "date": "2026-11-11",
+      "for": "general",
+      "te": "భోజనం తర్వాత చిన్న నడక మంచిది.",
+      "en": "A short walk after a meal does good.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-11",
+      "for": "homemaker",
+      "te": "చక్కగా నడిచే ఇల్లు నిశ్శబ్ద సంపద.",
+      "en": "A well-run home is quiet wealth.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-12",
+      "for": "general",
+      "te": "సమయానికి నిద్రపోండి; రోజు ముందు రాత్రే మొదలవుతుంది.",
+      "en": "Sleep on time; the day begins the night before.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-13",
+      "for": "general",
+      "te": "వీలైనప్పుడు కలిసి భోజనం చేయండి.",
+      "en": "Eat together when you can.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-14",
+      "for": "general",
+      "te": "ఇంటి భోజనం అత్యంత చవకైన మంచి అలవాటు.",
+      "en": "Home food is the cheapest good habit.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-14",
+      "for": "farmer",
+      "te": "పంట డబ్బు ఖర్చు చేసే ముందు తదుపరి విత్తనానికి కొంత దాచండి.",
+      "en": "Keep money aside for the next sowing before you spend the harvest.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-15",
+      "for": "general",
+      "te": "బిల్లులు లెక్కించే ముందు ఆశీస్సులు లెక్కించండి.",
+      "en": "Count your blessings before your bills.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-16",
+      "for": "general",
+      "te": "పండుగల కోసం ఏడాది పొడవునా కొంచెం పక్కన పెట్టండి.",
+      "en": "Keep a little aside for festivals all year.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-17",
+      "for": "general",
+      "te": "పండుగకు ప్రణాళిక వేయండి, దాని కోసం అప్పు చేయవద్దు.",
+      "en": "Plan the festival, do not borrow for it.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-17",
+      "for": "officeIt",
+      "te": "చిన్న సబ్‌స్క్రిప్షన్లు సమీక్షించండి; అవి నిశ్శబ్దంగా పెరుగుతాయి.",
+      "en": "Review small subscriptions; they add up silently.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-18",
+      "for": "general",
+      "te": "చిన్న మరమ్మతులు పెద్దవి కాకముందే సరిచేయండి.",
+      "en": "Fix small repairs before they grow.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-19",
+      "for": "general",
+      "te": "మీ వస్తువులను చూసుకోండి; అవి ఎక్కువ కాలం వస్తాయి.",
+      "en": "Look after what you own; it lasts longer.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-20",
+      "for": "general",
+      "te": "తీసుకున్నది సమయానికి తిరిగి ఇవ్వండి.",
+      "en": "Return what you borrow on time.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-20",
+      "for": "dailyWorker",
+      "te": "కష్టం, ప్రణాళిక కలిస్తే గట్టి పునాది.",
+      "en": "Hard work and a plan together make a firm footing.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-21",
+      "for": "general",
+      "te": "ఇచ్చినది ప్రేమగా, స్పష్టంగా రాసిపెట్టుకోండి.",
+      "en": "Write down what you lend, kindly and clearly.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-22",
+      "for": "general",
+      "te": "లెక్కలు స్పష్టంగా ఉంటే నమ్మకం పెరుగుతుంది.",
+      "en": "Trust grows when accounts are clear.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-23",
+      "for": "general",
+      "te": "రసీదు అడగండి; అదే మీ రుజువు.",
+      "en": "Ask for a receipt; it is your proof.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-23",
+      "for": "farmer",
+      "te": "పంటలను పంచండి; ఒక్క నష్టం మిమ్మల్ని ముంచకూడదు.",
+      "en": "Spread your crops; one failure should not finish you.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-24",
+      "for": "general",
+      "te": "మీ పిన్ ఎవరికీ చెప్పకండి, స్నేహితుడికైనా.",
+      "en": "Never share your PIN, even with a friend.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-25",
+      "for": "general",
+      "te": "ఆఫర్ మరీ బాగుందనిపిస్తే ఆగి ఆలోచించండి.",
+      "en": "If an offer sounds too good, pause.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-26",
+      "for": "general",
+      "te": "సంతకం చేసే ముందు చదవండి.",
+      "en": "Read before you sign.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-26",
+      "for": "driver",
+      "te": "అలసటతో నడపవద్దు; ఏ ట్రిప్ దానికి విలువ కాదు.",
+      "en": "Never drive tired; no trip is worth that.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-27",
+      "for": "general",
+      "te": "బీమా అనేది రాకూడదనుకునే రోజు కోసం.",
+      "en": "Insurance is for the day you hope never comes.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-28",
+      "for": "general",
+      "te": "ముఖ్యమైన పత్రాలను ఒకే చోట ఉంచండి.",
+      "en": "Keep important papers in one place.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-29",
+      "for": "general",
+      "te": "వస్తువులు ఎక్కడ ఉన్నాయో కుటుంబానికి చెప్పండి.",
+      "en": "Update your family on where things are kept.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-29",
+      "for": "teacher",
+      "te": "మీ స్వంత నేర్చుకోవడానికి చిన్న నిధి మొదలుపెట్టండి.",
+      "en": "Start a small fund for your own learning.",
+      "source": "own"
+    },
+    {
+      "date": "2026-11-30",
+      "for": "general",
+      "te": "ప్రతి వారం ఏదైనా కొత్తది నేర్చుకోండి.",
+      "en": "Learn something new every week.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-01",
+      "for": "general",
+      "te": "మంచి ప్రశ్న సగం సమాధానం.",
+      "en": "A good question is half the answer.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-02",
+      "for": "general",
+      "te": "పొరపాట్లను పరిశీలిస్తే అవి నేర్పుతాయి.",
+      "en": "Mistakes teach when you look at them.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-02",
+      "for": "student",
+      "te": "కావలసినది కొనే ముందు దాచండి.",
+      "en": "Save before you buy the thing you want.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-03",
+      "for": "general",
+      "te": "మీ పేజీని ఇతరుల పేజీతో పోల్చకండి.",
+      "en": "Do not compare your page with another's.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-04",
+      "for": "general",
+      "te": "సంతృప్తి కూడా ఒక సంపద.",
+      "en": "Contentment is a form of wealth.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-05",
+      "for": "general",
+      "te": "\"చాలు\" అనేది నిలబడటానికి మంచి చోటు.",
+      "en": "Enough is a good place to stand.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-05",
+      "for": "business",
+      "te": "దుకాణం డబ్బు, ఇంటి డబ్బు వేరుగా ఉంచండి.",
+      "en": "Separate shop money from home money.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-06",
+      "for": "general",
+      "te": "కొంచెం పంచండి; అది మంచి పేరుగా తిరిగి వస్తుంది.",
+      "en": "Share a little; it comes back as goodwill.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-07",
+      "for": "general",
+      "te": "వీలైతే పొరుగువారికి సాయం చేయండి.",
+      "en": "Help a neighbour when you can.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-08",
+      "for": "general",
+      "te": "పెద్దలను గౌరవించండి; వారి అనుభవం ఉచిత సలహా.",
+      "en": "Respect elders; their experience is free advice.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-08",
+      "for": "business",
+      "te": "ఒక రోజు విశ్రాంతి తీసుకోండి; దుకాణం వేచి ఉంటుంది.",
+      "en": "Take a day of rest; the shop will wait.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-09",
+      "for": "general",
+      "te": "ముందు వినండి, తర్వాత సమాధానం చెప్పండి.",
+      "en": "Listen first, then answer.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-10",
+      "for": "general",
+      "te": "ప్రశాంతమైన గొంతు అరిచే గొంతు కంటే ఎక్కువ పరిష్కరిస్తుంది.",
+      "en": "A calm voice solves more than a loud one.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-11",
+      "for": "general",
+      "te": "రోజును ఒక స్పష్టమైన లక్ష్యంతో మొదలుపెట్టండి.",
+      "en": "Begin the day with one clear goal.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-11",
+      "for": "retired",
+      "te": "మీరు పనిచేసిన సంవత్సరాల గురించి గర్వపడండి.",
+      "en": "Be proud of the years you worked.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-12",
+      "for": "general",
+      "te": "రేపటి మొదటి పని రాసి రోజును ముగించండి.",
+      "en": "End the day by writing tomorrow's first task.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-13",
+      "for": "general",
+      "te": "సమయం తిరిగి సంపాదించలేని డబ్బు; బాగా వాడండి.",
+      "en": "Time is money you cannot earn back; use it well.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-14",
+      "for": "general",
+      "te": "చివరి నిమిషపు చెల్లింపులు వద్దు; రిమైండర్ పెట్టుకోండి.",
+      "en": "Avoid last-minute payments; set a reminder.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-14",
+      "for": "homemaker",
+      "te": "అప్పును కుటుంబం నుంచి దాచవద్దు.",
+      "en": "Do not hide a loan from the family.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-15",
+      "for": "general",
+      "te": "ఆలస్య రుసుము అత్యంత వ్యర్థమైన ఖర్చు.",
+      "en": "Late fees are the most useless expense.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-16",
+      "for": "general",
+      "te": "ఎక్కువ వండి, మిగిలినది బాగా వాడండి.",
+      "en": "Cook extra and use leftovers well.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-17",
+      "for": "general",
+      "te": "వాడని వాటిని ఆపేయండి.",
+      "en": "Switch off what you are not using.",
+      "source": "own"
+    },
+    {
+      "date": "2026-12-17",
+      "for": "shopOwner",
+      "te": "దుకాణం పేరు ఏళ్లకు ఏళ్లు నిర్మిస్తారు, ఒక్క రోజులో పోతుంది; నిజాయితీగా ఉండండి.",
+      "en": "A shop's name is built over years and lost in a day; stay honest.",
+      "source": "own"
+    }
+  ]
 }
