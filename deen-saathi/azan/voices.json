@@ -1,0 +1,12 @@
+{
+  "voices": [
+    {
+      "id": "makkah",
+      "enabled": true,
+      "url": "https://noorallah.github.io/app-feeds/deen-saathi/azan/makkah.ogg",
+      "bytes": 1958702,
+      "sha256": "5acf04d5e8cff6e2f6fad14563c2abb8d2becea8fe06ca2cf348af98fab274f9",
+      "credit": "Azan of Masjid al-Haram, Makkah, Sheikh Ali Ahmed Mulla (Isha, 1434 AH; copy from archive.org item IshaAthan12-3-1434SheikhAliMulla). Used for non-commercial religious purpose; will be removed on request of the rights holder."
+    }
+  ]
+}
